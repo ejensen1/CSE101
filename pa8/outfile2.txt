@@ -1,0 +1,1110 @@
+-phony : 911
+Aeolidae : 912
+Almagest : 923
+Altamahaw : 996
+Amperian : 915
+Aphelops : 875
+Ardra : 868
+Arica : 809
+Artocarpus : 931
+Auster : 803
+Barboza : 940
+Brabazon : 864
+Cahuapana : 742
+Cannstatt : 965
+Cariocan : 737
+Charlena : 829
+Croesus : 810
+Cyrillaceae : 913
+Darra : 537
+Derbent : 667
+Doelling : 464
+Ector : 646
+Elsey : 685
+Engedi : 772
+Erma : 680
+Evans : 901
+Francoist : 714
+Fusulina : 800
+Geoffry : 817
+Gildea : 404
+Habiru : 794
+Half-moslem : 524
+Hannastown : 886
+Henka : 887
+Hochman : 474
+Huntersville : 836
+Iva : 423
+Jack-the-rags : 673
+Jenette : 732
+Jezabella : 643
+Kasubian : 467
+Kitasato : 549
+Krusche : 835
+Lavallette : 548
+Lerona : 870
+Levant : 769
+Lupinus : 926
+Lycopodiales : 381
+MFT : 603
+Maeander : 476
+Mahabharata : 884
+Mansura : 632
+Marilou : 866
+Melisandra : 896
+Midway : 695
+Millda : 481
+Monahon : 681
+Myrtle : 843
+Naemorhedinae : 985
+Nanuet : 666
+Neopilina : 364
+Oceola : 848
+Ongun : 831
+Opilia : 726
+Pan-mongolian : 749
+Pimpinella : 768
+Piscataqua : 807
+Potosi : 728
+Pyrosomatidae : 596
+Qum : 743
+RIM : 607
+RITA : 545
+Rallinae : 623
+Raninae : 434
+Rhynd : 505
+Scheel : 701
+Scorpaenidae : 554
+Sebright : 365
+Seeder : 933
+Sharpsburg : 658
+Stannwood : 700
+Tazewell : 697
+Tetrabelodon : 795
+Torun : 709
+Treron : 606
+Tupis : 399
+USSCt : 650
+Ucalegon : 789
+Vasti : 787
+Violaceae : 635
+Viscount : 503
+Wascott : 378
+Waylan : 418
+Wenlock : 995
+abeigh : 842
+abortionist : 964
+acroataxia : 740
+actuaries : 387
+adjustage : 480
+adsmith : 754
+afterdrain : 581
+albolite : 978
+alefnull : 938
+all-availing : 614
+allochromatic : 470
+ambulacrum : 674
+anise : 902
+annunciation : 948
+antecedaneous : 648
+antigovernment : 1000
+aptly : 410
+armorist : 416
+arsenetted : 626
+aspheric : 639
+assonantic : 529
+astrometeorology : 941
+attatches : 765
+autoimmunities : 991
+auxology : 555
+awabi : 361
+aywhere : 753
+baggers : 983
+banjo : 462
+barogram : 944
+baulkier : 909
+beanbag : 847
+belick : 380
+betroths : 558
+bidgee-widgee : 729
+bilinguist : 672
+birds : 747
+bitter-endism : 475
+black-tressed : 837
+bleached : 600
+bord-and-pillar : 392
+bout : 730
+breech-loading : 676
+bridoons : 433
+broadband : 403
+bullit : 961
+butterflylike : 430
+byssi : 663
+calderas : 992
+calories : 424
+cardamine : 521
+carpium : 939
+castles : 630
+catechizer : 605
+cay : 971
+cell : 664
+centranth : 507
+cerebellums : 487
+chelonin : 408
+child-mindedness : 712
+chirimen : 752
+chronotropism : 501
+chuter : 984
+cinderman : 880
+civilise : 634
+clearinghouse : 461
+clinah : 679
+close-bred : 780
+clumproot : 586
+coalitions : 945
+coccus : 471
+coderives : 942
+coffee-brown : 522
+coinquinate : 862
+colophonate : 785
+combinatorics : 975
+commissionating : 678
+competencies : 366
+computerizes : 531
+conichalcite : 854
+consence : 818
+conveyability : 741
+coracomandibular : 767
+cormogen : 566
+cotillage : 556
+counterchanged : 489
+countersconce : 779
+covariant : 498
+cps : 719
+cross-pawl : 705
+crumblingness : 966
+crystallizations : 526
+cufflinks : 898
+cunningness : 716
+cursedest : 943
+cut-price : 576
+cyclopentene : 999
+dackered : 987
+dandy-roller : 704
+deciduitis : 706
+decriminalization : 539
+deganglionate : 504
+delayage : 496
+demagnetized : 640
+demodulator : 774
+deperdite : 670
+detritus : 823
+devouringly : 893
+diachyma : 544
+diaplexus : 437
+dicoelous : 490
+dipppier : 907
+disassembler : 813
+disconvenient : 874
+disfellowship : 877
+dislikeful : 930
+disponed : 784
+ditches : 853
+djakarta : 699
+drawings-in : 979
+drivellingly : 869
+drunkest : 793
+dudine : 885
+dungannonite : 459
+dusenwind : 405
+earthiest : 782
+edward : 396
+electrography : 725
+embolimeal : 689
+emyde : 684
+encoring : 834
+endophasia : 760
+enneahedral : 814
+entangler : 371
+entrapment : 609
+epencephalons : 832
+epitheliomatous : 919
+escallops : 541
+ethanols : 450
+excitingly : 516
+exhilarator : 827
+expectorant : 552
+expurgational : 718
+extrahazardous : 214
+eye-lotion : 997
+fadding : 591
+falderols : 659
+fantailed : 859
+farthings : 520
+fault-slip : 891
+gammerel : 354
+felonwort : 308
+ferocity : 466
+feudists : 422
+fiddle-faddled : 710
+filbert : 879
+finespun : 542
+fire-retarded : 977
+flamelike : 801
+flavorousness : 713
+fluorinates : 456
+forebespeak : 296
+foolmonger : 294
+funicular : 258
+fit : 222
+fortyish : 435
+fourteens : 819
+freehandedness : 377
+fricandelle : 645
+frolicful : 698
+fullfaces : 234
+gallicola : 580
+gaster- : 745
+generous-hearted : 833
+ghostcraft : 806
+girlhoods : 959
+glassblower : 491
+glucosidase : 625
+hinderance : 250
+incorrupt : 998
+liberalizations : 974
+likerous : 920
+listable : 432
+lituiform : 442
+lobotomized : 865
+longhairs : 627
+lophin : 986
+louisville : 497
+maat : 771
+malfunction : 483
+maras : 477
+mashing : 463
+methobromide : 860
+microstomatous : 994
+misanthropi : 751
+mislighting : 618
+misshaped : 703
+monopody : 511
+montmorillonitic : 671
+motiving : 840
+mucronated : 830
+multibreak : 426
+myelographically : 955
+nasiform : 892
+neck-tie : 820
+neguses : 982
+neshly : 574
+neuroplasm : 761
+news-seeking : 455
+non-English : 897
+noncompensating : 578
+noncredibly : 949
+nondichogamic : 928
+nonfeasibility : 588
+nonheritability : 688
+nonirate : 821
+nonsegregable : 702
+nonsubstitution : 485
+noonday : 652
+nose-up : 651
+novelised : 590
+nudniks : 402
+off-color : 960
+opaled : 856
+orality : 686
+ornary : 724
+osoberry : 538
+outbear : 486
+outperform : 493
+outsparkle : 918
+outyells : 561
+overbookish : 766
+paraphilia : 448
+outperform : 493
+outsparkle : 918
+outyells : 561
+overbookish : 766
+overshadower : 775
+overbookish : 766
+overextends : 873
+painkilling : 883
+peats : 890
+perigon : 988
+peritoneoclysis : 981
+pessimism : 356
+pettygod : 802
+phenotype : 527
+philotechnical : 417
+photomacrography : 577
+pickthatch : 841
+planform : 571
+photomacrography : 577
+pickthatch : 841
+pig-footed : 641
+pixies : 722
+plie : 755
+pompoms : 882
+poppy-flowered : 773
+portmantle : 993
+postponement : 962
+precardiac : 136
+preconfiguration : 708
+prefertility : 682
+preinquisition : 567
+prevariation : 594
+prize-fighter : 953
+pro-Egyptian : 750
+prohydrotropic : 565
+promptuary : 916
+proportionability : 910
+proud-minded : 783
+pulpitical : 777
+purushartha : 519
+quadrifrontal : 575
+quasi-ethical : 956
+quenelle : 908
+quincewort : 675
+raclettes : 776
+raffishnesses : 482
+ravishedly : 889
+readdicting : 631
+rearhorse : 967
+rebounded : 850
+recidivous : 906
+refiners : 932
+rehaul : 858
+reinspire : 530
+relegating : 550
+repenalize : 905
+reremmice : 972
+residentially : 472
+respring : 593
+rheumiest : 976
+rogueling : 733
+ronnels : 973
+row-boat : 533
+ruby-eyed : 468
+rumina : 980
+sabre : 929
+sadhika : 528
+samites : 799
+scabiophobia : 225
+scarcen : 300
+seacatch : 326
+semidisk : 384
+schoolbooks : 532
+scissor-winged : 744
+seacatch : 326
+self-repugnance : 473
+semble : 407
+seminasal : 560
+sextodecimos : 551
+seminasal : 560
+semisocialistically : 619
+serolipase : 989
+smoothnesses : 235
+sociogram : 881
+soller : 662
+songlike : 592
+soreheads : 579
+soundheartedness : 677
+spacetime : 333
+spectroheliography : 654
+sperone : 621
+spifflicate : 690
+spirit-chilling : 612
+splenolymphatic : 815
+spring-board : 585
+squalliest : 958
+squirelet : 240
+stagnates : 394
+steel-digesting : 723
+stentorine : 500
+sternway : 924
+still-continuing : 446
+stoothing : 429
+straightforwardness : 957
+stripteased : 851
+stuber : 228
+subchief : 691
+subemarginate : 968
+subjunct : 535
+subpeltated : 443
+substalagmite : 894
+suffixion : 876
+sulfurized : 216
+summered : 419
+sunspottery : 736
+superdevilishly : 604
+superinsist : 220
+superscribe : 304
+supplicatingly : 233
+surfeit-swelled : 509
+swindlership : 314
+tafwiz : 543
+tide-locked : 244
+surfeit-swelled : 509
+swindlership : 314
+tafwiz : 543
+tam-o'-shanter : 547
+tafwiz : 543
+talesman : 946
+theaterless : 990
+three-aisled : 935
+throned : 863
+tapadera : 770
+ten-dollar : 746
+tepetate : 717
+tewly : 739
+terrestriality : 687
+thy : 715
+synaptene : 444
+telecinematography : 449
+table-faced : 363
+tatters : 388
+tilty : 927
+topsiders : 420
+tatters : 388
+tilty : 927
+tinkerwise : 904
+toluyl : 797
+toccate : 647
+tony : 693
+trainmaster : 867
+trophaea : 917
+turnmeter : 189
+tweed : 790
+twice-negotiated : 826
+twistical : 936
+ultracrepidarian : 523
+umpteenth : 825
+unagreed : 615
+unarousable : 657
+unbreakable : 335
+uncensured : 824
+unclouding : 861
+unconfinement : 257
+uncorven : 597
+undecreasingly : 413
+underclift : 748
+undermanning : 445
+understriking : 256
+undine : 921
+unduchess : 788
+unenterable : 525
+unexplainably : 628
+unfinable : 562
+unfrilled : 168
+ungradually : 382
+unhent : 512
+uniform : 584
+unitemized : 518
+unlearnableness : 778
+unmaniable : 260
+unmitred : 540
+unpalled : 139
+unpetted : 306
+unpredicably : 211
+unpuckers : 325
+unredemptive : 899
+unrespectiveness : 804
+unsafeguarded : 559
+unseemingly : 302
+unsignificant : 176
+unsymbolized : 903
+untwist : 849
+uraline : 895
+vaccines : 950
+valiseful : 922
+velds : 763
+ventricolumna : 653
+vermi- : 937
+vesico-umbilical : 291
+vice-architect : 636
+vrows : 791
+wage-plug : 844
+walkways : 272
+wappenschaw : 400
+well-accredited : 951
+well-erected : 253
+well-prosecuted : 360
+wharfages : 212
+while : 546
+white-fleshed : 362
+whoremongering : 616
+wigs : 385
+winches : 149
+winkled : 582
+wisha : 564
+woad-painted : 925
+woomeras : 934
+worldly-mindedness : 197
+wrothsome : 414
+yachtmanship : 285
+yawney : 735
+yerking : 252
+young-looking : 952
+zamarra : 816
+zephyr-fanned : 515
+zorils : 427
+
+hinderance
+awabi
+Iva
+Elsey
+Darra
+Auster
+Amperian
+Aeolidae
+-phony
+Almagest
+Altamahaw
+Ardra
+Aphelops
+Arica
+Artocarpus
+Cahuapana
+Brabazon
+Barboza
+Charlena
+Cariocan
+Cannstatt
+Croesus
+Cyrillaceae
+Doelling
+Derbent
+Ector
+Gildea
+Erma
+Engedi
+Fusulina
+Francoist
+Evans
+Geoffry
+Half-moslem
+Habiru
+Hochman
+Hannastown
+Henka
+Huntersville
+Neopilina
+Lycopodiales
+Kitasato
+Jezabella
+Jack-the-rags
+Jenette
+Kasubian
+Lavallette
+Krusche
+Levant
+Lerona
+Lupinus
+Marilou
+Maeander
+MFT
+Mansura
+Mahabharata
+Millda
+Midway
+Melisandra
+Myrtle
+Monahon
+Nanuet
+Naemorhedinae
+Wascott
+Raninae
+Potosi
+Pan-mongolian
+Ongun
+Oceola
+Opilia
+Pimpinella
+Piscataqua
+RIM
+Pyrosomatidae
+Qum
+RITA
+Rallinae
+Tazewell
+Sebright
+Scheel
+Rhynd
+Scorpaenidae
+Sharpsburg
+Seeder
+Stannwood
+Tupis
+Torun
+Tetrabelodon
+Treron
+Violaceae
+Ucalegon
+USSCt
+Vasti
+Viscount
+afterdrain
+actuaries
+abeigh
+Waylan
+Wenlock
+acroataxia
+abortionist
+adjustage
+adsmith
+aptly
+allochromatic
+alefnull
+albolite
+all-availing
+anise
+ambulacrum
+antecedaneous
+annunciation
+antigovernment
+assonantic
+arsenetted
+armorist
+aspheric
+attatches
+astrometeorology
+auxology
+autoimmunities
+diaplexus
+competencies
+calories
+bord-and-pillar
+bidgee-widgee
+belick
+banjo
+aywhere
+baggers
+baulkier
+barogram
+beanbag
+betroths
+bitter-endism
+bilinguist
+birds
+bleached
+black-tressed
+broadband
+breech-loading
+bout
+bridoons
+butterflylike
+bullit
+byssi
+calderas
+chelonin
+centranth
+castles
+cardamine
+carpium
+cay
+catechizer
+cell
+cerebellums
+clearinghouse
+chronotropism
+child-mindedness
+chirimen
+cinderman
+chuter
+civilise
+coccus
+close-bred
+clinah
+clumproot
+coalitions
+colophonate
+coffee-brown
+coderives
+coinquinate
+commissionating
+combinatorics
+covariant
+cotillage
+conveyability
+conichalcite
+computerizes
+consence
+cormogen
+coracomandibular
+counterchanged
+countersconce
+deganglionate
+cut-price
+crystallizations
+cross-pawl
+cps
+crumblingness
+cunningness
+cufflinks
+cursedest
+deciduitis
+dackered
+cyclopentene
+dandy-roller
+decriminalization
+demagnetized
+delayage
+deperdite
+demodulator
+devouringly
+detritus
+diachyma
+extrahazardous
+edward
+djakarta
+disponed
+disassembler
+dicoelous
+dipppier
+disfellowship
+disconvenient
+dislikeful
+ditches
+dungannonite
+drunkest
+drivellingly
+drawings-in
+dudine
+dusenwind
+earthiest
+entrapment
+emyde
+embolimeal
+electrography
+enneahedral
+endophasia
+encoring
+entangler
+ethanols
+epitheliomatous
+epencephalons
+escallops
+expectorant
+excitingly
+exhilarator
+expurgational
+foolmonger
+felonwort
+farthings
+falderols
+fadding
+eye-lotion
+fantailed
+gammerel
+fault-slip
+finespun
+feudists
+ferocity
+fiddle-faddled
+filbert
+fluorinates
+flamelike
+fire-retarded
+flavorousness
+forebespeak
+fit
+funicular
+fullfaces
+freehandedness
+fortyish
+fourteens
+fricandelle
+frolicful
+glassblower
+gaster-
+gallicola
+ghostcraft
+generous-hearted
+girlhoods
+glucosidase
+lituiform
+likerous
+liberalizations
+incorrupt
+listable
+precardiac
+nudniks
+multibreak
+mashing
+malfunction
+louisville
+longhairs
+lobotomized
+lophin
+maat
+maras
+mislighting
+microstomatous
+methobromide
+misanthropi
+monopody
+misshaped
+motiving
+montmorillonitic
+mucronated
+nonfeasibility
+news-seeking
+neshly
+nasiform
+myelographically
+neck-tie
+neguses
+neuroplasm
+noncompensating
+non-English
+nondichogamic
+noncredibly
+nose-up
+nonsubstitution
+nonirate
+nonheritability
+nonsegregable
+noonday
+novelised
+pessimism
+paraphilia
+outbear
+ornary
+opaled
+off-color
+orality
+osoberry
+outyells
+outperform
+outsparkle
+overbookish
+overshadower
+outyells
+outperform
+outsparkle
+overbookish
+overextends
+overbookish
+peats
+painkilling
+peritoneoclysis
+perigon
+planform
+philotechnical
+phenotype
+pettygod
+photomacrography
+pickthatch
+plie
+pig-footed
+photomacrography
+pickthatch
+pixies
+poppy-flowered
+pompoms
+postponement
+portmantle
+understriking
+turnmeter
+smoothnesses
+semidisk
+scarcen
+residentially
+prohydrotropic
+preinquisition
+prefertility
+preconfiguration
+prize-fighter
+prevariation
+pro-Egyptian
+quadrifrontal
+pulpitical
+proportionability
+promptuary
+proud-minded
+purushartha
+raffishnesses
+quincewort
+quenelle
+quasi-ethical
+raclettes
+reinspire
+rebounded
+readdicting
+ravishedly
+rearhorse
+refiners
+recidivous
+rehaul
+repenalize
+relegating
+reremmice
+ruby-eyed
+rogueling
+respring
+rheumiest
+row-boat
+ronnels
+samites
+sabre
+rumina
+sadhika
+scabiophobia
+seacatch
+sextodecimos
+semble
+self-repugnance
+scissor-winged
+schoolbooks
+seacatch
+seminasal
+semisocialistically
+seminasal
+serolipase
+tide-locked
+stoothing
+squirelet
+spacetime
+songlike
+soller
+sociogram
+soreheads
+soundheartedness
+spirit-chilling
+sperone
+spectroheliography
+spifflicate
+spring-board
+splenolymphatic
+squalliest
+stentorine
+stagnates
+steel-digesting
+still-continuing
+sternway
+sulfurized
+subjunct
+stuber
+stripteased
+straightforwardness
+subchief
+subemarginate
+substalagmite
+subpeltated
+suffixion
+supplicatingly
+superinsist
+sunspottery
+summered
+superdevilishly
+superscribe
+swindlership
+surfeit-swelled
+tafwiz
+synaptene
+tam-o'-shanter
+swindlership
+surfeit-swelled
+tafwiz
+tepetate
+tapadera
+three-aisled
+talesman
+tafwiz
+theaterless
+throned
+ten-dollar
+terrestriality
+tewly
+thy
+tinkerwise
+topsiders
+table-faced
+telecinematography
+tatters
+tilty
+tatters
+tilty
+toccate
+toluyl
+trainmaster
+tony
+trophaea
+unconfinement
+unagreed
+ultracrepidarian
+twice-negotiated
+tweed
+twistical
+umpteenth
+unbreakable
+unarousable
+uncensured
+unclouding
+undecreasingly
+uncorven
+undermanning
+underclift
+unsignificant
+unitemized
+unfinable
+unenterable
+unduchess
+undine
+unexplainably
+ungradually
+unfrilled
+unhent
+uniform
+unpalled
+unmaniable
+unlearnableness
+unmitred
+unpredicably
+unpetted
+unsafeguarded
+unredemptive
+unpuckers
+unrespectiveness
+unseemingly
+well-erected
+vesico-umbilical
+velds
+untwist
+unsymbolized
+vaccines
+uraline
+valiseful
+ventricolumna
+vermi-
+walkways
+vrows
+vice-architect
+wage-plug
+wappenschaw
+well-accredited
+winches
+wharfages
+well-prosecuted
+white-fleshed
+while
+wigs
+whoremongering
+yachtmanship
+worldly-mindedness
+wisha
+winkled
+woad-painted
+woomeras
+wrothsome
+zephyr-fanned
+yerking
+yawney
+zamarra
+young-looking
+zorils
+
