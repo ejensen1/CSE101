@@ -1,0 +1,15 @@
+List.h:
+Defines all of the public functions in List.c and makes them visible to the client.
+
+List.c:
+Contains the List ADT.
+
+ListClient.c:
+Runs tests that make sure that List.c runs correctly.
+
+Lex.c:
+Alphabetizes each line of an input file. To run make and then execute ./Lex [infile] [outfile].
+
+Makefile:
+Makes the program.
+
